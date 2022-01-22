@@ -1,0 +1,43 @@
+.header{
+    background-color: green;
+    text-align: center;
+    font-size: 25px;
+    margin: 5px;
+    background-image: url(SUKpic.jfif);
+    background-size: cover;
+}
+.nav{
+    background-color: grey;
+    color: ivory;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+h1{
+    font-size: 45px;
+    margin: 50px;
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.content p{
+    color: black;
+}
+a{
+    color: black;
+    padding: 80px;
+}
+.footer img{
+    width: 60px;
+    height:60px
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: cornflowerblue;
+    color: black;
+}
